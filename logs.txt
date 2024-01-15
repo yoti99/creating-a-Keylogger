@@ -1,0 +1,2 @@
+print pass
+Key.alt_lKey.alt_lKey.alt_l
